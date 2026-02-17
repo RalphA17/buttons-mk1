@@ -16,16 +16,16 @@ All you have to do is just hover over any of the buttons that catch your eye. Th
 <!-- The process of how I build it -->
 
 ## What I learned
-
 <!-- In 2-3 sentences tell everyone what you learned -->
+I learned about the exsistence of remixicon.com. Remix allows me to use various icons that are available for me to customize or use. I also learned about the use of Z-index. 
 
 ## How it can be improved?
-
 <!--What I could've done better -->
+What I could have done better was implementing various effects that involve using hover to create smooth animations for the user to enjoy. 
 
 ## Running the project
-
 <!-- How others can access your project and allow them to run it -->
+1. 
 
 ## Video/Screenshot
 <img width="1712" height="786" alt="image" src="https://github.com/user-attachments/assets/3baac568-5850-4fed-9699-ec8d9abfd8e8" />
