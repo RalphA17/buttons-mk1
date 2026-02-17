@@ -27,5 +27,6 @@ All you have to do is just hover over any of the buttons that catch your eye. Th
 
 <!-- How others can access your project and allow them to run it -->
 
-## Video
+## Video/Screenshot
+<img width="1712" height="786" alt="image" src="https://github.com/user-attachments/assets/3baac568-5850-4fed-9699-ec8d9abfd8e8" />
 unfortunately the video is too big to display here on GitHub. To watch a display of my code click this link: https://www.linkedin.com/feed/update/urn:li:activity:7429642979084087297/
