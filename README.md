@@ -14,6 +14,8 @@ All you have to do is just hover over any of the buttons that catch your eye. Th
 
 ## The Process
 <!-- The process of how I build it -->
+The purpose of this project was to build various buttons for me to use in future projects. I built each button with a different purpose and used z-index to create smooth animations. In addition I also used before and after effcts. 
+
 
 ## What I learned
 <!-- In 2-3 sentences tell everyone what you learned -->
@@ -25,7 +27,11 @@ What I could have done better was implementing various effects that involve usin
 
 ## Running the project
 <!-- How others can access your project and allow them to run it -->
-1. 
+1. Under "<> Code" you wanna click the keyboard icon to copy the GitHub link.
+2. If you are using VS Code click on "Clone Git Repository"
+3. Then paste the URL you copied from GitHub and hit enter. 
+4. Store the code you copied into a sepreate file and click repositroy destination.
+5. Run the index.html file. 
 
 ## Video/Screenshot
 <img width="1712" height="786" alt="image" src="https://github.com/user-attachments/assets/3baac568-5850-4fed-9699-ec8d9abfd8e8" />
